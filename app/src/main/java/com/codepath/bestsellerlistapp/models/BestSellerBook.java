@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 public class BestSellerBook {
 
    @SerializedName("rank")
-   public int rank;
+   public String rank;
 
    @SerializedName("title")
    public String title;
