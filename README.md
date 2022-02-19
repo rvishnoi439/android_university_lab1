@@ -1,3 +1,4 @@
-## Lab 1 - UI and Git Lab
+## Lab 1 - Best Seller Ny Time App
+
 
 This is the starter code for lab 1, see [Android University Course - Lab 1](https://courses.codepath.org/courses/android_university/unit/1#!exercises) for additional instructions.
